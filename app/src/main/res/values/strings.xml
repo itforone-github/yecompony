@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">예컴퍼니</string>
+    <string name="url">http://yecompany.itforone.co.kr/index.php</string>
+    <string name="domain">http://yecompany.itforone.co.kr</string>
+</resources>
